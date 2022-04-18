@@ -8,3 +8,7 @@ Free website templates including html css and javascript
 |website|template|
 |---|---|
 | https://68.00-59.com/en/free-website-templates | Sandwich |
+
+#
+
+Free usage license. Link from footer must be kept for each page using the template.
