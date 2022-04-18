@@ -1,5 +1,5 @@
 # free-website-templates-68-00-59
-Free website templates
+Free website templates including html css and javascript
 
 **View DEMO https://68.00-59.com/en/free-website-templates**
 
