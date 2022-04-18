@@ -11,4 +11,4 @@ Free website templates including html css and javascript
 
 #
 
-Link from footer must be kept for each page using the template.
+*Link from footer must be kept for each page using the template*
