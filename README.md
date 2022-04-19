@@ -7,7 +7,7 @@ Free website templates including html css and javascript
 
 |website|template|
 |---|---|
-| https://68.00-59.com/en/free-website-templates | Sandwich |
+| https://68.00-59.com/ | Sandwich |
 
 #
 
