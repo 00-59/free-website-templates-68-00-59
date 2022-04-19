@@ -1,0 +1,33 @@
+
+@font-face {
+  font-family: 'Montserrat';
+  src:  url('Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Shadows';
+  src:  url('ShadowsIntoLight-Regular.ttf') format('truetype');
+}
+html{
+  background-color: #FFF8DC;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Shadows';
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.container {
+  margin-bottom:1rem;
+}
+.microlight {
+  font-family: monospace;
+  white-space: pre;
+  background-color: #F8E008;
+  color: #383808;    
+}
