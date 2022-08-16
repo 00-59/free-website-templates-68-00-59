@@ -19,7 +19,7 @@ var replaceClasses = function (){
 }
 
 smaloa.CONFIG['phase 3'] = replaceClasses;
-smaloa.CONFIG['phase 5'] = replaceClasses;
+smaloa.CONFIG['phase 5'] = replaceClasses; // make sure style loaded in all components
 smaloa.load();
 
 
