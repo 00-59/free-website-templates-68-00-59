@@ -1,0 +1,71 @@
+
+/* layout */
+body {
+	display: grid;
+	grid-template-columns: auto auto;
+	min-height: 100vh;
+	margin: 0;
+}
+
+body > * > * {
+	padding: 0.5rem;
+}
+
+#right {
+	display: grid;
+	grid-template-rows: auto auto;
+	padding: 0;
+}
+
+#footer {
+
+}
+
+#footer-attribution {
+	text-align: right;
+}
+
+#footer-links {
+
+}
+
+#left-sidebar {
+	
+}
+
+#left-sidebar li {
+	list-style-type: none;
+	margin-bottom: 10px;
+}
+
+#logo {
+	text-align: center;
+	font-size: 2rem;
+	width: 100%;
+}
+
+#content {
+
+}
+
+/* style */
+a:link,a:visited,a:hover,a:active {
+  color: white;
+} 
+body {
+	background-color: green;
+}
+
+#right {
+	background-color: lightblue;
+}
+
+#footer {
+	background-color: green;
+	color: white;
+}
+
+#left-sidebar {
+	background-color: blue;
+	color: white;
+}
